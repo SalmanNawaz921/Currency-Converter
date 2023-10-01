@@ -1,0 +1,28 @@
+/* * {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+h1 {
+  margin-bottom: 20px;
+}
+
+
+#content {
+  display: flex;
+  gap: 10px;
+}
+
+form {
+  padding: 100px;
+} */
+
+body {
+  background-color: rgb(190, 190, 213);
+}
+
+.hover-effect {
+  transform: scale(1.2);
+}
